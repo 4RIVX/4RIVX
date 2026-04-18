@@ -1,7 +1,7 @@
 <div align="center">
 
-*ECE undergrad at SNS College of Technology building production-grade AI systems,*
-*real-time IoT platforms, and clinical-grade medical applications — from scratch, solo.*
+*ECE undergraduate at SNS College of Technology building production-grade AI systems,*
+*real-time IoT platforms, and clinical-grade applications — from scratch, solo.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arivumathi_S-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arivumathi-s)
 [![Gmail](https://img.shields.io/badge/Gmail-arivumathi224@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arivumathi224@gmail.com)
@@ -10,10 +10,9 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  ABOUT ME 
 
 ```python
-class Arivumathi:
 
     name          = "Arivumathi S"
     alias         = "4RIVX"
@@ -64,7 +63,7 @@ class Arivumathi:
 
 ---
 
-## 🚀 Featured Projects
+##  FEATURED PROJECTS
 
 ### 🫁 AI Chest X-Ray Classification Web App
 > 🥈 **Runner-Up — Medicathon 2K26** | Beat 50+ Teams | Solo ECE Student
